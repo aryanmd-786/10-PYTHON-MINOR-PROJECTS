@@ -23,7 +23,5 @@ This repository contains **10 Python minor projects** created to practice Python
 - JSON
 - Python Libraries
 
-## 🎯 Purpose
 
-These projects helped me improve my **Python programming, problem-solving, API handling, and practical development skills**.
  
